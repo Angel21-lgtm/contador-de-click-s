@@ -8,4 +8,4 @@ Puedes interactuar directamente con el proyecto con el siguiente enlace:
 # https://contador-de-clicks.netlify.app/
 
 Enlace del repositoro:
-# https://github.com/Angel21-lgtm/contador-de-click-s.git
+# https://github.com/Angel21-lgtm/contador-de-clicks.git
