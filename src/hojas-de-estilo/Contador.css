@@ -1,0 +1,33 @@
+.contador {
+    width: 100%;
+    height: 300px;
+    font-size: 100px;
+    padding: 10px;
+    color: #fff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 8px solid;
+    margin-bottom: 15px;
+    animation: 1.5s contador infinite;
+}
+
+@keyframes contador {
+    0% {
+        color: #800080cc;
+        text-shadow: 0 0 10px #800080cc, 0 0 20px #800080cc,
+        0 0 30px #800080cc;
+    }
+
+    50% {
+        color: #00ffffcc;
+        text-shadow: 0 0 10px #00ffffcc, 0 0 20px #00ffffcc,
+        0 0 30px #00ffffcc;
+    }
+
+    100% {
+        color: #800080cc;
+        text-shadow: 0 0 10px #800080cc, 0 0 20px #800080cc,
+        0 0 30px #800080cc;
+    }
+}
